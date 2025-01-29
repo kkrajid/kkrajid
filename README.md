@@ -92,8 +92,8 @@ I'm a passionate full-stack developer with 4+ years of experience crafting robus
 ⌬ Microservices Architecture      ◈ Kubernetes Orchestration
 ⌬ Edge Computing Applications     ◈ AI/ML Integration in IoT
 ⌬ Serverless Functions            ◈ Blockchain for IoT Security
-
-📫 Let's Connect
+```
+### 📫 Let's Connect
 <div align="center">
 Twitter
 Stack Overflow
