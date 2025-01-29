@@ -94,9 +94,9 @@ I'm a passionate full-stack developer with 4+ years of experience crafting robus
 ⌬ Serverless Functions            ◈ Blockchain for IoT Security
 ```
 ### 📫 Let's Connect
-```<div align="center">
+<div align="center">
 Twitter
 Stack Overflow
 Medium
 
-</div><div align="center" style="margin-top: 20px;"> <sub>✨ Crafting digital solutions that bridge hardware and software worlds</sub> </div> ```
+</div><div align="center" style="margin-top: 20px;"> <sub>✨ Crafting digital solutions that bridge hardware and software worlds</sub> </div> 
