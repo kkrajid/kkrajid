@@ -1,62 +1,91 @@
-<h1 align="center">👋 Hello World! I'm Rajid K K</h1>
-<h3 align="center">Full Stack Developer | Python & React Specialist | IoT Enthusiast</h3>
+<div align="center">
+  
+  # ⚡️ Rajid K K
+  
+  <div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=986DFF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Python+%7C+Django+Expert;React+Specialist;IoT+Enthusiast" alt="Typing SVG" />
+  </div>
+  
+  <div>
+    <a href="mailto:kkrajid@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank" />
+    </a>
+  </div>
+  
+  <img src="https://komarev.com/ghpvc/?username=kkrajid&color=blueviolet&style=for-the-badge" alt="Profile Views">
+</div>
 
-<p align="center">
-  <a href="mailto:kkrajid@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=kkrajid&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
+<br/>
 
-### 👨‍💻 About Me
+## 🚀 About Me
 
-- 🔭 I'm a passionate developer focused on creating robust web applications
-- 🌱 Currently expanding my expertise in **Python Django**, **React.js**, and **IoT**
-- 💡 I love building solutions that combine web technologies with hardware integration
-- 👯 Open to collaborating on innovative projects in web development and IoT
-- 💬 Ask me about **Django**, **React.js**, or full-stack development
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Rajid K K"
+        self.role = "Full Stack Developer"
+        self.languages = ["Python", "JavaScript", "C++", "Java"]
+        self.current_focus = ["Django", "React", "IoT"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
 
-### 🛠️ Tech Stack
+me = Developer()
+me.say_hi()
+```
 
-**Frontend Development**
-- React.js | Redux | JavaScript (ES6+)
-- HTML5 | CSS3 | Tailwind CSS | Bootstrap
-- Chart.js for data visualization
+## 💻 Tech Artillery
 
-**Backend Development**
-- Python | Django
-- RESTful APIs | Nginx
-- Database: PostgreSQL | MongoDB | MySQL
+<div align="center">
+  
+  ### Frontend
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  
+  ### Backend
+  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  
+  ### Tools & Technologies
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</div>
 
-**IoT & Other Skills**
-- Arduino | Hardware Programming
-- C/C++ | Java
-- Linux Systems | Git
+## 📊 GitHub Analytics
 
-**Tools & Platforms**
-- Figma for UI/UX
-- Firebase | Postman
-- Version Control with Git
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kkrajid&show_icons=true&count_private=true&hide_border=true&title_color=986DFF&icon_color=986DFF&text_color=c9d1d9&bg_color=0d1117" alt="Rajid K K github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=kkrajid&hide_border=true&theme=transparent&background=0d1117&stroke=986DFF&ring=986DFF&fire=986DFF&currStreakNum=c9d1d9&sideNums=986DFF&currStreakLabel=986DFF&sideLabels=986DFF&dates=c9d1d9" />
+</div>
 
-### 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkrajid&show_icons=true&theme=dracula" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkrajid&layout=compact&hide_border=true&title_color=986DFF&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkrajid&theme=dracula" alt="GitHub Streak" />
-</p>
+## 🎯 Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkrajid&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
-
-### 📫 Let's Connect!
-Feel free to reach out for collaborations or just a friendly chat about technology!
-- 📧 Email: kkrajid@gmail.com
+- 🌱 Mastering **Django REST Framework**
+- 🚀 Advanced **React.js** and state management
+- 🔧 IoT projects with **Arduino**
+- 📱 Building responsive and accessible web applications
 
 ---
-<p align="center">
-  <i>Happy Coding! 🚀</i>
-</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kkrajid&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  
+  ### Let's build something amazing together! 🤝
+  
+  ![Snake animation](https://github.com/kkrajid/kkrajid/blob/output/github-contribution-grid-snake-dark.svg)
+</div>
